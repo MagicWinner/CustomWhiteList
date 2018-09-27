@@ -1,7 +1,6 @@
 name: CustomWhiteList
 version: 1.0
 main: net.MagicWinner.CustomWhiteList.CustomWhiteList
-loadbefore: [CivCraft]
 authors: [MagicWinner]
 description: Customise ur WhiteList
 website: https://vk.com/magicwinner
